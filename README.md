@@ -31,6 +31,6 @@ Users can add tasks, mark them as completed, and delete them from the list.
 
 ## Author
 
-- Name: Ashu  
+- Name: Shubrant Singh Naruka
 - Course: BCA  
-- Semester: (your semester)
+- Semester: (3rd)
